@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="785945d7-d78c-4da4-9961-a23e954ee162" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PythonProject12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOServer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleServer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Some Good Images-20261030/RedDie1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Some Good Images-20261030/RedDie2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Some Good Images-20261030/RedDie3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Some Good Images-20261030/RedDie4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Some Good Images-20261030/RedDie5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Some Good Images-20261030/RedDie6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Some Good Images-20261030/off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Some Good Images-20261030/on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SomethingBetter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functionMapDecorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netTools.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="3LQ6bbPZXJvP83jyyB7tKzLDCwJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.OOServer.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/isaia/PycharmProjects/PythonProject12"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\isaia\PycharmProjects\PythonProject12" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="785945d7-d78c-4da4-9961-a23e954ee162" name="Changes" comment="" />
+      <created>1793374016889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793374016889</updated>
+    </task>
+    <servers />
+  </component>
+</project>
